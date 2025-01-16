@@ -10,6 +10,19 @@
 
 ### JS Practical lesson
 
+How to run JS code
+
+Go to terminal
+
+- cd week1
+- ls -la
+- data_types.js
+- node data_types.js
+
+N.B: **use the console log() to print each variable to the console.**
+
+**use the typeof operator to check the type of each variable and print.**
+
 ### Version Control
 
 - Having diffrent versions of the same project with some updated contents or codes.
