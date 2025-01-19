@@ -36,6 +36,16 @@ N.B: **use the console log() to print each variable to the console.**
     mkdir foldername
 - GitHub : creat your own GitHub account.
 
+## How to push to GitHub##
+
+steps
+
+- open in integrated terminal.
+- git status
+- git add .
+- git commit "comment"
+- git push origin main
+
 ### Teaching Methods
 
 - Monday and Tuesday : lecturing.
@@ -163,3 +173,50 @@ it is a code block that recognizes variables.
 - UI : Design phase.
 
 ### Design Handover
+
+# HTML-CSS Notes
+
+- HTML tree
+
+  - `<!DOCTYPE html>`: Defines document type.
+  - `<html>`: Root element.
+  - `<head>`: Metadata (title, CSS links, etc.).
+  - `<body>`: Visible content.
+
+```
+<html>
+<head> (information for the browser called meta data)
+   <title> <title> (title on the page on the bar and it is mandatory)
+   </head>
+  <body> (all feaseble parts for the user on the browser)
+  <h1> </h1>
+  </body>
+  </html>
+```
+
+### Semantic HTML
+
+- A semantic element clearly describes its meaning to both the browser and the developer.
+
+- Examples of non-semantic elements: `<div>` and `<span>`
+  : Tells nothing about its content.
+
+- Examples of semantic elements: `<form>`, `<table>`, and `<article>`: Clearly defines its content.
+
+- Many web sites contain HTML code like: `<div id="nav">` `<div class="header">` `<div id="footer">` to indicate navigation, header, and footer.
+
+- In HTML there are some semantic elements that can be used to define different parts of a web page:
+
+  1. `<article>`
+  2. `<aside>`
+  3. `<details>`
+  4. `<figcaption>`
+  5. `<figure>`
+  6. `<footer>`
+  7. `<header>`
+  8. `<main>`
+  9. `<mark>`
+  10. `<nav>`
+  11. `<section>`
+  12. `<summary>`
+  13. `<time>`
