@@ -35,6 +35,7 @@ N.B: **use the console log() to print each variable to the console.**
   - to creat a folder
     mkdir foldername
 - GitHub : creat your own GitHub account.
+- git add index.html
 
 ## How to push to GitHub##
 
