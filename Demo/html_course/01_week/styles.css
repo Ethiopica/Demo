@@ -130,6 +130,7 @@ nav ul li a:hover {
   background-color: #fff;
   padding: 40px 0;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  align-items: center;
 }
 .link h2 {
   text-align: center;
@@ -141,11 +142,10 @@ nav ul li a:hover {
   font-size: 18px;
   text-align: center;
 }
-.link q {
-  text-align: center;
-  border: dotted thin black;
-}
-.link blockquote {
+
+.texta {
+  align-items: center;
+  justify-items: center;
   text-align: center;
 }
 /* Footer Section */
