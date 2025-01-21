@@ -7,4 +7,6 @@ const num = Math.random();
 let num1 = num * 10;
 console.log(num1);
 let roundNum = Math.floor(num1);
-console.log("Your random number is" + roundNum);
+console.log("Your random number is " + roundNum);
+
+/* other option */

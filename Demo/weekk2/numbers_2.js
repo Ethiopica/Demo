@@ -9,8 +9,10 @@ Print both results using console.log() with messages:
 
 let price = 19.56789;
 let fruitPrice = price.toFixed(2);
-console.log(fruitPrice);
+console.log("Price with 2 decimals: " + fruitPrice + ".");
 
 let price1 = 19.56789;
 let fruitPrice1 = Math.round(price1);
-console.log(fruitPrice1);
+console.log("Price with no decimals: " + fruitPrice1 + ".");
+
+/* There is another way to do this : Check the GitHub from Margarit */

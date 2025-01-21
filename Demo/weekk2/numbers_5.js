@@ -15,4 +15,6 @@ console.log(roundNum);
 
 /* Math.ceil */
 let roundNum1 = Math.ceil(num);
-console.log("The rounded value is " + roundNum1);
+console.log("The rounded value is " + roundNum1 + ".");
+
+/* Other method*/

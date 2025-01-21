@@ -9,7 +9,13 @@ Example outputs:
 
  */
 const userInput = "25.75 apples";
-let price = parseFloat(25.75);
+let price = parseFloat(userInput);
 console.log(price);
 let price1 = price.toFixed(1);
 console.log(price1);
+
+/* other way*/
+let userInput1 = "25.75 apples";
+let extractedNum = parseFloat(userInput1);
+let roundedNum = extractedNum.toFixed(1);
+console.log(roundedNum);
