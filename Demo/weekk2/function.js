@@ -1,4 +1,11 @@
+const sum = (x, y) => {
+  return x + y;
+};
+
+console.log(sum(4, 3));
+
+/* another*/
 function greet(name) {
-  console.log(`Hello ${name}`);
+  return (greet = "Hello " + name);
 }
-greet("Elias");
+console.log(greet("Elias"));
