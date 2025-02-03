@@ -221,3 +221,17 @@ it is a code block that recognizes variables.
   11. `<section>`
   12. `<summary>`
   13. `<time>`
+
+## Software development life cycle
+
+1. **Planning**: when customers come they know what they want but they do not know specifically what and how.
+   - _Important question to as is why they need that specific program before start doing anything_.
+   - Ask yourself if you are able to do it. Skill requirement, budget, time
+2. **Analysis and requirements** :
+3. **Design** : It is about hoe the whole system works together (the structure of the pland system)
+4. **Development** : This is the coding part of.
+5. **Integration and testing** : Trying to fit the new system with the alrady existed ones (internal systems and external systems).
+6. **Implementation** : Delivering the code to the custome and it has to work.
+7. **Maintenance** : Make sure the system is functioning as it is planned.
+
+N.B it is a cycle that starts with planning and ends with Maintenance.
